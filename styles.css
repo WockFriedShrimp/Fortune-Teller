@@ -1,0 +1,19 @@
+h1{
+font-family: 'Bebas Neue', cursive;
+}
+p{
+font-family: 'Bebas Neue', cursive;
+    font-size:30px;
+}
+button{
+font-family: 'Bebas Neue', cursive;
+    font-size:30px;
+}
+
+.bigAnswer{
+border: groove black ;
+    border-style:solid;
+    padding: 40px;
+     font-size: 20px;
+}
+
